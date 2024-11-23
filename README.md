@@ -7,5 +7,6 @@ Ce projet a un but purement éducatif, permettant de découvrir le fonctionnemen
 ## Installation️ :
 
 1) Clone le projet `git clone https://github.com/Louis292/PyKeyLogger.git`
-2) Execute le code serveur `dist/server/server.py`
-3) Execute le code "keyLogger", `dist/key_logger/key_logger.py`
+2) Ouvrez le fichier `build.bat`
+3) Executez le code serveur `dist/key_logger/server/server.exe`
+4) Execute le code "keyLogger", `dist/key_logger/key_logger.py`

@@ -1,0 +1,4 @@
+keyboard==0.13.5
+pygetwindow==0.0.9
+pyperclip==1.9.0
+pyinstaller==6.11.1
